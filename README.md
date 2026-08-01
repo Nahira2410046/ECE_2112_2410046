@@ -49,6 +49,6 @@ _**Heaven’s Light is Our Guide**_
 
 | Lab No. | Title | Link | codeforce |
 | :---: | :---: | :---: | :---: |
-| 01 |  Problem Solving  | [Lab 01](https://github.com/Nahira2410046/ECE_2112_2410046/blob/main/Lab%201)|
+| 01 |  Problem Solving  | [Lab 01](https://github.com/Nahira2410046/ECE_2112_2410046/blob/main/DTS%20Lab%201.md)|
 
 </div>
