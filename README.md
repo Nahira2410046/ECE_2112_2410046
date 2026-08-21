@@ -50,5 +50,5 @@ _**Heaven’s Light is Our Guide**_
 | Lab No. | Title | Link | |
 | :---: | :---: | :---: | :---: |
 | 01 |  Problem Solving  | [Lab 01](https://github.com/Nahira2410046/ECE_2112_2410046/blob/main/DT_Lab_Report_1__2410046_.pdf)
-| 02 | Problem Solving   | [Lab 02](https://github.com/Nahira2410046/ECE_2112_2410046/blob/main/DT_Lab_Report_2__2410046_.pdf)
+| 02 | Problem Solving   | [Lab 02]()
 </div>
